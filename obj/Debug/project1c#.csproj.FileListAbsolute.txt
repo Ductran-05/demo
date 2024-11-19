@@ -1,0 +1,7 @@
+C:\ONEDRIVE\Documents\visual\C#\project1c#\project1c#\bin\Debug\project1c#.exe.config
+C:\ONEDRIVE\Documents\visual\C#\project1c#\project1c#\bin\Debug\project1c#.exe
+C:\ONEDRIVE\Documents\visual\C#\project1c#\project1c#\bin\Debug\project1c#.pdb
+C:\ONEDRIVE\Documents\visual\C#\project1c#\project1c#\obj\Debug\project1c#.csproj.AssemblyReference.cache
+C:\ONEDRIVE\Documents\visual\C#\project1c#\project1c#\obj\Debug\project1c#.csproj.CoreCompileInputs.cache
+C:\ONEDRIVE\Documents\visual\C#\project1c#\project1c#\obj\Debug\project1c#.exe
+C:\ONEDRIVE\Documents\visual\C#\project1c#\project1c#\obj\Debug\project1c#.pdb
